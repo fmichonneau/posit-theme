@@ -1,0 +1,17 @@
+{
+  "name": "Posit Dark",
+  "base": "dark",
+  "overrides": {
+    "claude": "#6EA8D8",
+    "success": "#8BBF5E",
+    "error": "#EEA798",
+    "warning": "#F6B000",
+    "planMode": "#5CB8BA",
+    "promptBorder": "#7B93AF",
+    "permission": "#7B93AF",
+    "remember": "#D1DBE5",
+    "diffAdded": "#1F3321",
+    "diffRemoved": "#3B2420",
+    "userMessageBackground": "#1A2733"
+  }
+}

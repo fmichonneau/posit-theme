@@ -1,0 +1,17 @@
+{
+  "name": "Posit Light",
+  "base": "light",
+  "overrides": {
+    "claude": "#447099",
+    "success": "#729943",
+    "error": "#ED632F",
+    "warning": "#F6B000",
+    "planMode": "#419599",
+    "promptBorder": "#305775",
+    "permission": "#305775",
+    "remember": "#7B93AF",
+    "diffAdded": "#D7E5C7",
+    "diffRemoved": "#F7D9CC",
+    "userMessageBackground": "#EEF2F6"
+  }
+}
