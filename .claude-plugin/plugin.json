@@ -1,0 +1,7 @@
+{
+  "name": "posit-theme",
+  "version": "0.1.0",
+  "description": "Claude Code theme drawn from the Posit brand palette and type",
+  "author": { "name": "François Michonneau" },
+  "license": "MIT"
+}

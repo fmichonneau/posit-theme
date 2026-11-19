@@ -1,0 +1,6 @@
+{
+  "name": "posit-theme",
+  "owner": { "name": "François Michonneau" },
+  "description": "A Claude Code theme drawn from the Posit brand palette",
+  "plugins": [{ "name": "posit-theme", "source": "./" }]
+}
